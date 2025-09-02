@@ -713,4 +713,11 @@ def can_finish(num_courses, prerequisites):
 
 Remember: The key to mastering these patterns is practice. Start with easier problems and gradually work your way up to more complex ones!
 
+pattern trial image- https://miro.medium.com/v2/resize:fit:4096/format:webp/1*kFtXLGzNSfmMDmXvxQ9a3Q.jpeg
+details - https://medium.com/@eshwarsairam7/dsa-patterns-cheat-sheet-836179d7a6cf
+cleaner way to understand patterns - https://github.com/KushalVijay/DSA-Patterns-Roadmap
 understand patterns in depth - https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews
+all patterns - https://docs.google.com/document/d/1QBgVmkmvtVXS_DJBqZydyTmVjgGEk1SMG0xHpygSMC4/edit?tab=t.0
+pattern wise practise - https://algomaster.io/practice/dsa-patterns
+more - https://manralai.medium.com/only-15-patterns-to-master-any-coding-interview-570a3afc9042
+- https://www.linkedin.com/pulse/20-coding-patterns-master-dsa-data-structures-algorithms-ankit-malik/
