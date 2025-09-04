@@ -277,3 +277,6 @@
 Courtesy:
 https://neetcode.io | 
 https://leetcode.com
+
+Faadu practise
+https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews
