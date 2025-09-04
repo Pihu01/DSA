@@ -1,4 +1,4 @@
-1. Two pointers Pattern:
+1. Two pointers Pattern:(04 Sept 2025)
   When to use: When you need to find pairs, compare elements, or work with sorted arrays.
   Key Idea: Use two pointers moving towards each other or in the same direction.
   
