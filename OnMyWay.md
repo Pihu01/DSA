@@ -33,4 +33,22 @@
       print(pairsum(7))
 
 
+##### MethodO2: 2 pair - Two pointer optimised
+      
+      
+      def pairsum(target):
+         a=[10,20,30,40,50]
+         i=0
+         j=len(a)-1
+         while i<j:
+             sum=a[i]+a[j]
+             if sum==target:
+                return i,j
+             elif sum>target:
+                  j=j-1
+             else:
+                  i=i+1
+         return False
+      
+      print(pairsum(70))
 
