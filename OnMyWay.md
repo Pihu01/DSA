@@ -17,15 +17,17 @@
 
 ---------------------------------------------------
 MethodO1: 2 pair - Two pointer
-def pairsum(target):
-    print("target",target)
-    a=[1,2,3,4,5]
-    
-    for i in range(len(a)-1):
-        for j in range(i+1, len(a)-1):
-            if(a[i]+a[j] == target):
-              return i,j
-    return False
 
-print(pairsum(7))
+   def pairsum(target):
+       print("target",target)
+       a=[1,2,3,4,5]
+       
+       for i in range(len(a)-1):
+           for j in range(i+1, len(a)-1):
+               if(a[i]+a[j] == target):
+                 return i,j
+       return False
+   
+   print(pairsum(7))
+
 -----------------------------------------------------
